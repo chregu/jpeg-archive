@@ -7,6 +7,5 @@ jpeg-hash
 test-files
 test-output
 comparison
-comparison.png
 test/test.jpg
 test/test
